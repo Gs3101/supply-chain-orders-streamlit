@@ -1,0 +1,18 @@
+📚 Supply Chain Orders Management System v1.0
+Time: 2025-04-30 04:01:53
+Developed by: Guy Stein
+
+🔹 Description:
+This tool automates the management, analysis, and reporting of supply chain order data.
+
+🔹 Features:
+- Bi-directional integration with dummy REST API
+- Excel input/output with automated processing
+- Summary reports, dashboards, PDF generation, monitoring logs
+- Alerts, backups, health checks, and simulation mode
+
+🔹 Technologies:
+- Python 3.13, Pandas, OpenPyXL, Matplotlib, FPDF, SMTP, REST
+
+🔹 Future Additions:
+- Enhanced anomaly detection, real-time API integration, user login
